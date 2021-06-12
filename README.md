@@ -1,2 +1,3 @@
 # Emoji-Interpreter
-Created with CodeSandbox
+
+Simple emoji interpreter app.
